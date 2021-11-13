@@ -32,11 +32,16 @@ I love to share stories and thoughts through my podcast [BitEvolution](https://a
 ### 🚧 Soon Out!
 That's my public commitment to complete the following open chapters of my life:
 - Publish a Scientific **Literature Review** on Blockchain applied to Medical Data Sharing.
-- Publish Serie A betting **Dapps** on Ethereum.
+- Publishing a NFT based **decentralized identity** on blockchain.
 - Accomplish the AWS Certification as **Solution Architect**.
-- Publish my Master Degree Thesis on **GNN**.
-- Complete a cross-university project on Social Media behaviour about Blood donation.
 
+---
+
+### DONE!
+- Published a paper on IEEE BigData Workshop
+- Published betting Dapps on Ethereum: 0xceAF03F5A5fcA0f3221777Bf0d52C248e883094D.
+- Publish my [Master Degree Thesis on GNN](https://www.politesi.polimi.it/handle/10589/179034) .
+- Completed a cross-university project on Social Media behaviour about Blood donation, [DataLife](http://datashack.deib.polimi.it/nyu) .
 ---
 
 ### 🔦 Find me on
