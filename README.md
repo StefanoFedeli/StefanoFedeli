@@ -15,13 +15,10 @@ Multipod following many passions, doing my best along the path.
 
 ### 🙌 Successes
 ##### Data Science
-After a couple of working experiences in the medical industry [in 2019 as Data Analyst](https://www.asst-brianza.it/web/index.php/presidi/ospedale/vimercate) and [in 2021 as Data Scientist](https://www.linkedin.com/posts/activity-6761670952150437888-Fuex). I very much looking forward to continue my career in the field. 
+After a couple of working experiences in the medical industry [in 2019 as Data Analyst](https://www.asst-brianza.it/web/index.php/presidi/ospedale/vimercate) and [in 2021 as Data Scientist](https://www.linkedin.com/posts/activity-6761670952150437888-Fuex). I very much looking forward to continue my career in the field, hopefully bringing data solution to customers. 
 
 ##### Blockchain
 Been able to be part of the ecosystem very soon I really intrigued by the possibilities unlocked by the technology. I started by being a member of the [Digital Gold Institute](https://dgi.io/full-team/), and now looking forward to deepen my knowledge in the area, evangelizing my discoveries. 
-
-##### Cloud Computing
-Having started my career among servers and networking services I'm incredibly interested in recent development in DevOps tech and Cloud infrastructures. I'm very proud to have passed the [Cloud Practitioner AWS certification](https://www.credly.com/badges/6832e633-9a40-45bc-b01d-3d6fec0140c5/linked_in) and looking forward to get the next one. 
 
 ##### Outside Tech
 I love playing football ⚽  and basketball 🏀. 
