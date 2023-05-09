@@ -4,8 +4,7 @@ Entrepreneur in Zurich.
 Multipod following many passions, doing my best along the path.
 
 [🌱 ] Currently exploring the world of Soccer and Wine ...
-[👯] Offering work to software developer and data analysts .
-[🤔] I’m looking for great video editors and movie maker to enhance my [Youtube Channel](https://youtube.com/@ing.crypto)!
+[👀] I’m looking for great video editors and movie maker to enhance my [Youtube Channel](https://youtube.com/@ing.crypto)!
 [💬 ] Love to talk about business, personal growth, technology and AI :D 
 
 
