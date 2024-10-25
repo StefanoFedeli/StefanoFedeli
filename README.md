@@ -1,13 +1,13 @@
 # 🧑‍💻  About Me
 ###  Me in a nutshell
-Entrepreneur in Zurich.
-Multipod following many passions, doing my best along the path.
+Aspirant entrepreneur living in Zurich.
+Following many passions, doing my best along the path.
 
-[🌱 ] Currently exploring the world of Soccer AI and Wine ...
+[🌱 ] Currently exploring the world of football through AI lens and wine ...
 
-[👀] I’m looking for great video editors and movie maker to enhance my [Youtube Channel](https://youtube.com/@ing.crypto)!
+[👀] I’m looking for great video editors and movie maker to enhance my [Udemy Courses](https://www.udemy.com/user/stefano-fedeli-3/)!
 
-[💬 ] Love to talk about business, yoga, technology and AI :D 
+[💬 ] Love to talk about Bitcoin, yoga, and AI :D 
 
 
 > “Questions you cannot answer are usually far better for you than answers you cannot question.” 
@@ -16,10 +16,10 @@ Multipod following many passions, doing my best along the path.
 
 ### 🙌 Successes
 ##### Data Science
-After a couple of working experiences in the medical industry [in 2019 as Data Analyst](https://www.asst-brianza.it/web/index.php/presidi/ospedale/vimercate) and [in 2021 as Data Scientist](https://www.linkedin.com/posts/activity-6761670952150437888-Fuex). I co-founded [Mailo Global](https://mailo.global) with other 4 great people to bring AI into Real-World evidence. I later sold my shares to start [GmAnalytics]() to bring Machine Learning in E-Sports. 
+After a couple of working experiences in the medical industry [in 2019 as Data Analyst](https://www.asst-brianza.it/web/index.php/presidi/ospedale/vimercate) and [in 2021 as Data Scientist](https://www.linkedin.com/posts/activity-6761670952150437888-Fuex). I co-founded [Mailo Global](https://mailo.global) with other 4 great people to bring AI into Real-World evidence. I later sold my shares to start [GmAnalytics](https://www.linkedin.com/posts/matteo-ferrini_python-leagueoflegends-streamlit-activity-7201985378185043968-_hTY?utm_source=share&utm_medium=member_desktop) to bring Machine Learning in E-Sports. 
 
 ##### Blockchain
-Having been fooled more than once I started sharing my view and my tips on this far west. Excited for the impact this technology can have. I started by being a member of the [Digital Gold Institute](https://dgi.io/full-team/), I moved to Sygnum Bank as a DeFi Engineer, building financial products on blockchain. Dedicated to empower professional growth in the field through [KubixLabs](http://kubixlabs.com). I'm also publishing my adventure on my [Youtube Channel](https://youtube.com/@ing.crypto)! Always happy to help people 
+Having been fooled more than once, I started sharing my view and my tips on this far west. Excited for the impact this technology can have. I started by being a member of the [Digital Gold Institute](https://dgi.io/full-team/), I moved to Sygnum Bank as a DeFi Engineer, building financial products on blockchain. Dedicated to empower professional growth in the field through [mentorship](https://mentorcruise.com/sessions/mentor/stefanofedeli/) and [courses](https://www.udemy.com/user/stefano-fedeli-3/). Always happy to help people in the industry! 
 
 ##### Outside Tech
 I love playing football ⚽  and basketball 🏀. 
@@ -31,8 +31,8 @@ I love to share stories and thoughts through my podcast [BitEvolution](https://a
 ### 🚧 Soon Out!
 That's my public commitment to complete the following open chapters of my life:
 - Going to a meditation retreat
-- Go back to Data Science
-- KubixLabs first branded course
+- Start offline event in Zurich for football fan enthusiast about data.
+- KubixLabs branded course
 
 ---
 
